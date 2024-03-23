@@ -1,2 +1,4 @@
-package files;public class SelenideFilesTest {
+package files;
+
+public class SelenideFilesTest {
 }
